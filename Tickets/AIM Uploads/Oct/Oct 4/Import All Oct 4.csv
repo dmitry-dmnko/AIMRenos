@@ -1,0 +1,19 @@
+FCID	FCID Name	Marketing Sales Designation	Language Designation	Fixture Type Code	Fixture Type Name	Zone	Subzone	Fixture Instance Priority	Within 10 Feet
+13087	One Powell Street	Flagship		1A	Entry Exit Display (floor)	Lobby & Waiting	All	2	FALSE
+13087	One Powell Street	Flagship		1A	Entry Exit Display (floor)	Lobby & Waiting	All	3	FALSE
+8512	Annandale	BAU	Spanish	1X3MF-A	Modular 1x3 (A)	Teller	Behind Teller	1	TRUE
+10093	Downtown Tallahassee	BAU		48J	UCRFF (JR)	Lobby & Waiting	All	2	FALSE
+7956	Clayton Facility	BAU		2X3MF-A	Modular 2x3 (A)	Office	Relationship Manager	1	FALSE
+15905	Myrtle Ave and Waverly Ave	BAU	Spanish	2X3MF-A	Modular 2x3 (A)	Lobby & Waiting	All	2	FALSE
+12036	Cordova	Flagship		1X2MF-A	Modular 1x2 (A)	Office	Relationship Manager	1	FALSE
+12036	Cordova	Flagship		2X3MF-A	Modular 2x3 (A)	Office	Small Business	1	FALSE
+14455	Davis Square	BAU		48J	UCRFF (JR)	Office	Home Loan	1	FALSE
+14455	Davis Square	BAU		48J	UCRFF (JR)	Office	Relationship Manager	1	FALSE
+14455	Davis Square	BAU		48J	UCRFF (JR)	Office	Relationship Manager	2	FALSE
+14455	Davis Square	BAU		48J	UCRFF (JR)	Office	Relationship Manager	3	FALSE
+8788	Lawrence	BAU		2X3MF-B	Modular 2X3 (B)	Office	Relationship Manager	2	FALSE
+15891	Edwardsville Crossing	BAU		5A	Focus Fixture	Lobby & Waiting	All	2	FALSE
+15032	Journal Square	BAU	Spanish	14UD	Universal Desktop	Office	Relationship Manager	8	FALSE
+15032	Journal Square	BAU	Spanish	4AN	Teller (flat) FC/Neutral	Teller	Small Teller	1	TRUE
+15032	Journal Square	BAU	Spanish	4AN	Teller (flat) FC/Neutral	Teller	Small Teller	2	TRUE
+14327	Exeter Plaza	Flagship		1X2MF-A	Modular 1x2 (A)	Office	Investment	1	FALSE

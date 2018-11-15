@@ -1,0 +1,9 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,5,FALSE
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,6,FALSE
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,7,FALSE
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,TRUE
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,TRUE
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,TRUE
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,TRUE
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,TRUE

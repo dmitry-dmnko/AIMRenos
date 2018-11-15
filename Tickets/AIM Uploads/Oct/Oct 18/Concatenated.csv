@@ -1,0 +1,17 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+11047,Pacific Grove,BAU,,46,Panel Queue,Teller,Queue Line,4,True
+11047,Pacific Grove,BAU,,46,Panel Queue,Teller,Queue Line,5,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,6,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,7,True
+13082,De Zavala,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,8,True
+1316,Carolina Place,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+1316,Carolina Place,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+1316,Carolina Place,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+16564,Rancho San Diego,BAU,,1X2MF-A,Modular 1x2 (A),Office,Relationship Manager,1,False
+16564,Rancho San Diego,BAU,,2X2MF-A,Modular 2x2 (A),Office,Home Loan,1,False
+8815,Oakland Industrial Ctr,Community,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,5,False

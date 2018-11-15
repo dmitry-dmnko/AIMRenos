@@ -1,0 +1,4 @@
+﻿FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+15032,Journal Square,BAU,Spanish,14UD,Universal Desktop,Office,Relationship Manager,8,FALSE
+15032,Journal Square,BAU,Spanish,4AN,Teller (flat) FC/Neutral,Teller,Small Teller,1,TRUE
+15032,Journal Square,BAU,Spanish,4AN,Teller (flat) FC/Neutral,Teller,Small Teller,2,TRUE

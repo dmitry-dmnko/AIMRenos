@@ -1,0 +1,18 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+10903,Mid-Pinellas,BAU,Spanish,11D,Department Sign (base),Lobby & Waiting,All,1,False
+10903,Mid-Pinellas,BAU,Spanish,11D,Department Sign (base),Lobby & Waiting,All,2,False
+10903,Mid-Pinellas,BAU,Spanish,11D,Department Sign (base),Lobby & Waiting,All,3,False
+10903,Mid-Pinellas,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+10903,Mid-Pinellas,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+13090,Virginia Parkway,Flagship,,6,Door Sign,Exterior,Door,2,False
+243,21st and Irving,Flagship,Chinese,4C,Teller Fixture (base),Teller,Small Teller,1,True
+243,21st and Irving,Flagship,Chinese,4C,Teller Fixture (base),Teller,Small Teller,2,True
+243,21st and Irving,Flagship,Chinese,4C,Teller Fixture (base),Teller,Small Teller,3,True
+243,21st and Irving,Flagship,Chinese,4C,Teller Fixture (base),Teller,Small Teller,4,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,6,True
+7415,16th & Osborn,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,7,True

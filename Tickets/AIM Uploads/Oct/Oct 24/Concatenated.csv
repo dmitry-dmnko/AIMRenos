@@ -1,0 +1,15 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet,
+15959,Church Avenue and Ocean Avenue,BAU,,6,Door Sign,Exterior,Door,2,FALSE,3
+15959,Church Avenue and Ocean Avenue,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,1,TRUE,
+15959,Church Avenue and Ocean Avenue,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,2,TRUE,
+13463,Bailey Delavan,Community,,4C,Teller Fixture (base),Teller,Small Teller,1,TRUE,
+15653,Downtown Silver Spring,BAU,Spanish,48,UCRFF,Lobby & Waiting,All,3,FALSE,
+15959,Church Avenue and Ocean Avenue,BAU,,6,Door Sign,Exterior,Door,2,FALSE,-
+15959,Church Avenue and Ocean Avenue,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,1,TRUE,-
+15959,Church Avenue and Ocean Avenue,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,2,TRUE,-
+15978,10th and Chestnut,BAU,,2X3MF-A,Modular 2x3 (A),Office,Home Loan,1,FALSE,2
+15978,10th and Chestnut,BAU,,2X2MF-A,Modular 2x2 (A),Office,Home Loan,1,FALSE,2
+15978,10th and Chestnut,BAU,,2X2MF-A,Modular 2x2 (A),Office,Small Business,1,FALSE,2
+15978,10th and Chestnut,BAU,,2X3MF-A,Modular 2x3 (A),Office,Small Business,1,FALSE,2
+8272,High Point Main,Community,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,FALSE,
+8272,High Point Main,Community,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,2,FALSE,

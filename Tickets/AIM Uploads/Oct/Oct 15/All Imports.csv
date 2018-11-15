@@ -1,0 +1,9 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+7552,Arroyo Grande,Flagship,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,FALSE
+9525,Rodney Parham,BAU,,19B,Dual Brand Fixture,Lobby & Waiting,All,2,FALSE
+9525,Rodney Parham,BAU,,19B,Dual Brand Fixture,Lobby & Waiting,All,3,FALSE
+11094,National City,BAU,,4C,Teller Fixture (base),Teller,Small Teller,1,TRUE
+9529,Soto-Hostetter,Community,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,FALSE
+11331,Santa Rosa Main,BAU,Spanish,46,Panel Queue,Teller,Queue Line,1,TRUE
+11331,Santa Rosa Main,BAU,Spanish,46,Panel Queue,Teller,Queue Line,2,TRUE
+12165,North Port,BAU,,2X3TBS-A,Modular 2x3 (A),Lobby & Waiting,All,1,TRUE

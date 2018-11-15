@@ -1,0 +1,110 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+10501,Mission,BAU,Spanish,19B,Dual Brand Fixture,Office,Small Business,1,False
+10782,Parkland,Community,,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+10782,Parkland,Community,,19B,Dual Brand Fixture,Lobby & Waiting,All,3,False
+10782,Parkland,Community,,19B,Dual Brand Fixture,Lobby & Waiting,All,4,False
+11016,Silver Lake Mall,BAU,,4C,Teller Fixture (base),Teller,Small Teller,1,True
+11016,Silver Lake Mall,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,5,True
+11339,122nd & Stark,Community,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,7,False
+11529,Tulare,BAU,Spanish,46,Panel Queue,Teller,Queue Line,6,True
+11529,Tulare,BAU,Spanish,18A,"Merchant Teller Hours (base, magnetic)",Teller,Merchant Teller,1,True
+11687,Thousand Oaks,BAU,Spanish,2X2MF-A,Modular 2x2 (A),Office,Investment,1,False
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,1,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,2,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,3,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,4,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,5,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,6,True
+12185,Palatka,BAU,,4C,Teller Fixture (base),Teller,Small Teller,7,True
+12185,Palatka,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,6,True
+12185,Palatka,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,7,True
+12185,Palatka,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,8,True
+12185,Palatka,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,9,True
+13018,Monticello Marketplace,Flagship,,10N,Desktop Neutral/FC,Office,Home Loan,1,False
+13018,Monticello Marketplace,Flagship,,2X2MF-A,Modular 2x2 (A),Office,Home Loan,1,False
+13681,Port Jervis,Community,,19B,Dual Brand Fixture,Office,Relationship Manager,5,False
+13925,Washington Park,Community,Spanish,46,Panel Queue,Teller,Queue Line,1,True
+13925,Washington Park,Community,Spanish,46,Panel Queue,Teller,Queue Line,2,True
+13925,Washington Park,Community,Spanish,46,Panel Queue,Teller,Queue Line,3,True
+13925,Washington Park,Community,Spanish,46,Panel Queue,Teller,Queue Line,4,True
+14335,Allston,Community,Spanish,10N,Desktop Neutral/FC,Office,Relationship Manager,6,False
+14335,Allston,Community,Spanish,10N,Desktop Neutral/FC,Office,Relationship Manager,7,False
+14713,Leonia,BAU,Spanish,2X2MF-B,Modular 2x2 (B),Lobby & Waiting,All,1,True
+14713,Leonia,BAU,Spanish,2X2MF-B,Modular 2x2 (B),Lobby & Waiting,All,2,False
+15099,Franklin Plaza,BAU,Spanish,2X2MF-A,Modular 2x2 (A),Office,Investment,1,False
+15353,Cardiff,Community,Spanish,2X2MF-B,Modular 2x2 (B),Lobby & Waiting,All,1,False
+15617,Center City,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+15617,Center City,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+15617,Center City,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,3,False
+15617,Center City,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,4,False
+15646,Foothill Ranch,Flagship,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+15691,Tapo Canyon,Flagship,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+15691,Tapo Canyon,Flagship,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+15691,Tapo Canyon,Flagship,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,3,False
+15703,Double Diamond,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,1,True
+15703,Double Diamond,Flagship,,19B,Dual Brand Fixture,Office,Relationship Manager,3,False
+15727,Baron Cameron,Flagship,Spanish,4C,Teller Fixture (base),Teller,Merchant Teller,1,True
+15727,Baron Cameron,Flagship,Spanish,4C,Teller Fixture (base),Teller,Merchant Teller,2,True
+15727,Baron Cameron,Flagship,Spanish,4C,Teller Fixture (base),Teller,Merchant Teller,3,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,1,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,2,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,3,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,4,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,5,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,6,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,7,True
+15825,Oso / Marguerite,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,8,True
+15825,Oso / Marguerite,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+15825,Oso / Marguerite,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+15841,1502 Kings Highway,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+15841,1502 Kings Highway,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+15841,1502 Kings Highway,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,3,False
+15841,1502 Kings Highway,Flagship,,19B,Dual Brand Fixture,Lobby & Waiting,All,4,False
+15889,Avenue U and East 21st Street,Flagship,Chinese,10N,Desktop Neutral/FC,Office,Relationship Manager,1,False
+15889,Avenue U and East 21st Street,Flagship,Chinese,10N,Desktop Neutral/FC,Office,Relationship Manager,2,False
+15978,10th and Chestnut,BAU,,2X2MF-A,Modular 2x2 (A),Office,Home Loan,1,False
+15978,10th and Chestnut,BAU,,2X3MF-A,Modular 2x3 (A),Office,Home Loan,1,False
+15978,10th and Chestnut,BAU,,2X2MF-A,Modular 2x2 (A),Office,Small Business,1,False
+15978,10th and Chestnut,BAU,,2X3MF-A,Modular 2x3 (A),Office,Small Business,1,False
+16105,Orchard Lake Road,BAU,,19B,Dual Brand Fixture,Office,Relationship Manager,6,False
+16105,Orchard Lake Road,BAU,,19B,Dual Brand Fixture,Office,Relationship Manager,7,False
+16168,Somerset,BAU,,10,Desktop,Office,Relationship Manager,7,False
+16580,Miramar Square,BAU,Spanish,46,Panel Queue,Teller,Queue Line,1,True
+16652,Story and King,Community,Spanish,46,Panel Queue,Teller,Queue Line,1,True
+16652,Story and King,Community,Spanish,46,Panel Queue,Teller,Queue Line,2,True
+16652,Story and King,Community,Spanish,46,Panel Queue,Teller,Queue Line,3,True
+16652,Story and King,Community,Spanish,2X2MF-A,Modular 2x2 (A),Office,Home Loan,1,False
+16783,Elmhurst,BAU,Spanish,19A,Teller Services Fixture,Teller,Behind Teller,1,True
+16783,Elmhurst,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,1,False
+16783,Elmhurst,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,2,False
+16783,Elmhurst,BAU,Spanish,19B,Dual Brand Fixture,Lobby & Waiting,All,3,False
+16877,Keystone Crossing,BAU,,7,Regulatory Sign,Lobby & Waiting,All,1,False
+1757,Campbell & Irvington,Community,Spanish,6,Door Sign,Exterior,Door,2,False
+7519,Capitol Hill,Community,Spanish,14UD,Universal Desktop,Office,Small Business,1,False
+7519,Capitol Hill,Community,Spanish,14UD,Universal Desktop,Office,Small Business,2,False
+8445,Hollywood Main,Flagship,Spanish,10N,Desktop Neutral/FC,Lobby & Waiting,All,1,False
+8445,Hollywood Main,Flagship,Spanish,10N,Desktop Neutral/FC,Lobby & Waiting,All,2,False
+8445,Hollywood Main,Flagship,Spanish,14UD,Universal Desktop,Office,Relationship Manager,1,False
+8445,Hollywood Main,Flagship,Spanish,14UD,Universal Desktop,Office,Relationship Manager,2,False
+8460,Imperial-Paramount,BAU,Spanish,10,Desktop,Office,Relationship Manager,1,False
+8468,Indio Main,BAU,Spanish,10,Desktop,Office,Relationship Manager,1,False
+8497,Irvine Industrial,BAU,,11D,Department Sign (base),Lobby & Waiting,All,2,False
+8497,Irvine Industrial,BAU,,11D,Department Sign (base),Lobby & Waiting,All,3,False
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,5,False
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,6,False
+8686,Park Central,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,7,False
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,True
+8686,Park Central,BAU,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,True
+940,Artesia-Norwalk,Flagship,Spanish,18A,"Merchant Teller Hours (base, magnetic)",Teller,Merchant Teller,1,True
+9523,Smoke Tree,BAU,,4C,Teller Fixture (base),Teller,Merchant Teller,1,True
+9523,Smoke Tree,BAU,,4C,Teller Fixture (base),Teller,Merchant Teller,2,True
+9523,Smoke Tree,BAU,,4C,Teller Fixture (base),Teller,Merchant Teller,3,True
+9900,Independence Square East,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,5,False
+9900,Independence Square East,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,6,False
+9900,Independence Square East,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,7,False
+9900,Independence Square East,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,8,False
+998,Ajo & Mission,BAU,Spanish,37,Small Business Fixture (floorstanding),Lobby & Waiting,All,2,False
+998,Ajo & Mission,BAU,Spanish,37,Small Business Fixture (floorstanding),Lobby & Waiting,All,3,False

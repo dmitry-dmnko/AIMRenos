@@ -1,0 +1,6 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+1142,Bella Terra,Flagship,Spanish,7,Regulatory Sign,Lobby & Waiting,All,3,FALSE
+15354,Collingswood,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,1,TRUE
+16564,Rancho San Diego,BAU,,6,Door Sign,Exterior,Door,3,FALSE
+8517,Lexington West Main Street,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,1,TRUE
+9321,Sweetgrass,Flagship,,7,Regulatory Sign,Lobby & Waiting,All,1,FALSE

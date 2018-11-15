@@ -1,0 +1,5 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+9008,Spring Mountain/Wynn,Flagship,,2X2MF-A,Modular 2x2 (A),Office,Small Business,1,FALSE
+8241,Gulf To Bay,BAU,Spanish,10N,Desktop Neutral/FC,Office,Relationship Manager,7,FALSE
+8241,Gulf To Bay,BAU,Spanish,19B,Dual Brand Fixture,Office,Relationship Manager,7,FALSE
+8241,Gulf To Bay,BAU,Spanish,2X3MF-A,Modular 2X3 (B),Office,Relationship Manager,1,FALSE

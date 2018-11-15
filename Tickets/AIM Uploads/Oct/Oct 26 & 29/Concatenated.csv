@@ -1,0 +1,22 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+11383,Rancho Santa Margarita,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+11383,Rancho Santa Margarita,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+11383,Rancho Santa Margarita,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+11383,Rancho Santa Margarita,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,True
+11383,Rancho Santa Margarita,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,True
+1142,Bella Terra,Flagship,Spanish,7,Regulatory Sign,Lobby & Waiting,All,3,False
+15354,Collingswood,BAU,,19A,Teller Services Fixture,Teller,Behind Teller,1,True
+16564,Rancho San Diego,BAU,,6,Door Sign,Exterior,Door,3,False
+7892,Long Street,BAU,Spanish,48,UCRFF,Office,Relationship Manager,2,False
+8052,Eagle Rock,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,1,True
+8052,Eagle Rock,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,2,True
+8052,Eagle Rock,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,3,True
+8052,Eagle Rock,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,4,True
+8052,Eagle Rock,Flagship,Spanish,4C,Teller Fixture (base),Teller,Small Teller,5,True
+8517,Lexington West Main Street,BAU,,4A,Teller Fixture (flat),Teller,Small Teller,1,True
+9028,Green Spring Station,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,1,True
+9028,Green Spring Station,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,2,True
+9028,Green Spring Station,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,3,True
+9028,Green Spring Station,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,4,True
+9028,Green Spring Station,Flagship,,4C,Teller Fixture (base),Teller,Small Teller,5,True
+9321,Sweetgrass,Flagship,,7,Regulatory Sign,Lobby & Waiting,All,1,False

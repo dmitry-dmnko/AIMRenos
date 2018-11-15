@@ -1,0 +1,3 @@
+FCID,FCID Name,Marketing Sales Designation,Language Designation,Fixture Type Code,Fixture Type Name,Zone,Subzone,Fixture Instance Priority,Within 10 Feet
+11529,Tulare,BAU,Spanish,46,Panel Queue,Teller,Queue Line,6,TRUE
+11529,Tulare,BAU,Spanish,18A,"Merchant Teller Hours (base, magnetic)",Teller,Merchant Teller,1,TRUE
